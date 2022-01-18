@@ -33,3 +33,7 @@ Take that HTML and paste it into the Salesforce KB form under the "Source" view 
 
 
 That's it!
+
+### FORK MODIFICATIONS
+
+This fork adds support for syntax highlighting from the basic pygments sample. Can be useful for better viewing of code.
